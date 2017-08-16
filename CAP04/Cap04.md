@@ -1,4 +1,4 @@
-#Getting Started with Oracle BPEL Process Manager
+# Getting Started with Oracle BPEL Process Manager
 
 - Tip: No se puede usar la sintaxis de BPEL 1.1 y BPEL 2.0 en el mismo fichero .bpel
        Sin embargo si se puede usar proyectos BPEL 1.1 y BPEL 2.0 en la misma aplicacion SOA composite.
@@ -62,7 +62,7 @@
 * Receive: Espera un "callback" con un mensaje response de la llamada a un servicio asincrono.
            Tambien es usado cuando un proceso empieza asincronamente a travez de un partner link.
 
-#Partner Links 
+# Partner Links 
  * Un partner link te habilita para que puedas definir servicios externos con los
    cuales un proceso BPEL interactuará.
  * Puedes definir partner links como services o references (JCA adapter, etc)

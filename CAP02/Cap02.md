@@ -58,7 +58,7 @@
        User interface location(JDeveloper)
        Import: durante el despliegue
        La ubicacion en las referencias definidas (Usado durante tiempo de ejecucion)
-#Wires
+# Wires
 
 - Tip: Oracle Mediator solo puede ser enlazado por un "servicio inbound", por lo tanto 
        rechazara los intentos de crear un segundo servicio.
